@@ -1,0 +1,1 @@
+https://github.com/HeinleinSupport/check_mk_extensions
