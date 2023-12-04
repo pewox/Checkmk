@@ -1,1 +1,8 @@
 https://github.com/HeinleinSupport/check_mk_extensions
+
+https://github.com/HeinleinSupport/check_mk_extensions/blob/cmk2.2/apcaccess/lib/check_mk/base/plugins/agent_based/apcaccess.py
+
+https://github.com/Yogibaer75
+https://exchange.checkmk.com/u/Andreas-Doehler
+
+
