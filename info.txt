@@ -18,3 +18,5 @@ https://github.com/HeinleinSupport/check_mk_extensions/blob/cmk2.1/apcaccess/lib
 https://docs.checkmk.com/latest/de/devel_check_plugins_snmp.html
 
 https://exchange.checkmk.com/u/Andreas-Doehler
+
+https://pypi.org/project/mkp/
