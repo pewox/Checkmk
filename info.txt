@@ -5,4 +5,16 @@ https://github.com/HeinleinSupport/check_mk_extensions/blob/cmk2.2/apcaccess/lib
 https://github.com/Yogibaer75
 https://exchange.checkmk.com/u/Andreas-Doehler
 
+http://monitoring-test.justiz.thlv.de/justiz/check_mk/plugin-api/
 
+https://www.fujitsu.com/downloads/STRSYS/system/LT260MIB_01.zip
+
+MIB Files: https://www.vertiv.com/de-emea/support/software-download/monitoring/management-information-bases-mibs-for-liebert-products/
+
+https://ups.legrand.com/media/software/cs141_mib.zip
+
+https://github.com/HeinleinSupport/check_mk_extensions/blob/cmk2.1/apcaccess/lib/check_mk/base/plugins/agent_based/apcaccess.py
+
+https://docs.checkmk.com/latest/de/devel_check_plugins_snmp.html
+
+https://exchange.checkmk.com/u/Andreas-Doehler
